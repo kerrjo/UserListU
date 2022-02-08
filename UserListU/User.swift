@@ -1,6 +1,5 @@
 //
 //  User.swift
-//  FidelityU
 //
 //  Created by JOSEPH KERR on 2/4/22.
 //
